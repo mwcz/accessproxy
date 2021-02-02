@@ -1,4 +1,4 @@
-**This repo is deprecated.  Please use [spandx](https://github.com/redhataccess/spandx) instead.**
+# This repo is deprecated.  Please use [spandx](https://github.com/redhataccess/spandx) instead.
 
 accessproxy
 ==============
